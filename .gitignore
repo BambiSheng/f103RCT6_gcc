@@ -2,6 +2,7 @@
 /.settings
 /.eide/log
 /.eide.usr.ctx.json
+/.clang-format
 
 # project out
 /build
