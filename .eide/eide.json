@@ -63,10 +63,9 @@
         "incList": [
           ".eide/deps",
           "Core/Inc",
+          "Drivers/CMSIS/Device/ST/STM32F1xx/Include",
           "Drivers/STM32F1xx_HAL_Driver/Inc",
-          "Drivers/STM32F1xx_HAL_Driver/Src",
-          "Drivers/CMSIS/Include",
-          "Drivers/CMSIS/Device/ST/STM32F1xx/Include"
+          "Drivers/CMSIS/Include"
         ],
         "libList": [],
         "sourceDirList": [],
